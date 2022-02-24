@@ -1,0 +1,7 @@
+.SwipeButtons{
+    position:fixed;
+    bottom:4vh;
+    display:flex;
+    width:100%;
+    justify-content:space-evenly;
+}
